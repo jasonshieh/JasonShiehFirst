@@ -1,6 +1,6 @@
 public class HelloWorld{
 
 	public static void main(String args[]){
-		System.out.println("Hello,Sorry I don't like VIM!!");
+		System.out.println("May it be a good start of git manage");
 	}
 }
